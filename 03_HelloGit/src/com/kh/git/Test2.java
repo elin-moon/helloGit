@@ -6,6 +6,8 @@ public class Test2 {
 		System.out.println("읭");
 		
 		System.out.println("test1 브랜치 시작!!!!");
+		System.out.println("test1 브랜치 끝");
+		
 	}
 
 }
